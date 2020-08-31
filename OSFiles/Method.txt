@@ -1,0 +1,5 @@
+These files were made with:
+nasm input.asm -f bin -o output.bin
+
+These files were run with:
+qemu-system-x86_64 input.bin
